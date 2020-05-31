@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49f25d46.chunk.css",
+    "main.js": "/static/js/main.a812e9a5.chunk.js",
+    "main.js.map": "/static/js/main.a812e9a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f394aa81.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f394aa81.js.map",
+    "static/js/2.77d80d1d.chunk.js": "/static/js/2.77d80d1d.chunk.js",
+    "static/js/2.77d80d1d.chunk.js.map": "/static/js/2.77d80d1d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.faf2f46d8d2bedb006ad08880ee257e8.js": "/precache-manifest.faf2f46d8d2bedb006ad08880ee257e8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.49f25d46.chunk.css.map": "/static/css/main.49f25d46.chunk.css.map",
+    "static/js/2.77d80d1d.chunk.js.LICENSE.txt": "/static/js/2.77d80d1d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Busflix.e0bd96dc.pdf": "/static/media/Busflix.e0bd96dc.e0bd96dc.pdf",
+    "static/media/airbnbLogo.jpg": "/static/media/airbnbLogo.e47c3e26.jpg",
+    "static/media/boltpics.jpg": "/static/media/boltpics.8e8b350a.jpg",
+    "static/media/busflix2.jpg": "/static/media/busflix2.9d645204.jpg",
+    "static/media/canstores.png": "/static/media/canstores.6203e44d.png",
+    "static/media/contactMail.png": "/static/media/contactMail.641df51e.png",
+    "static/media/graduation.svg": "/static/media/graduation.b1ed41ea.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/qsso.png": "/static/media/qsso.0dc4c4a3.png",
+    "static/media/robocon_2013.jpg": "/static/media/robocon_2013.c971005a.jpg",
+    "static/media/undraw_coding_6mjf.svg": "/static/media/undraw_coding_6mjf.46d9f22b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f394aa81.js",
+    "static/js/2.77d80d1d.chunk.js",
+    "static/css/main.49f25d46.chunk.css",
+    "static/js/main.a812e9a5.chunk.js"
+  ]
+}
