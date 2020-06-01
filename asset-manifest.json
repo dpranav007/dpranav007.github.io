@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ebfd5b2.chunk.css",
+    "main.css": "/static/css/main.9325dc98.chunk.css",
     "main.js": "/static/js/main.258dff14.chunk.js",
     "main.js.map": "/static/js/main.258dff14.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f394aa81.js",
@@ -8,9 +8,9 @@
     "static/js/2.77d80d1d.chunk.js": "/static/js/2.77d80d1d.chunk.js",
     "static/js/2.77d80d1d.chunk.js.map": "/static/js/2.77d80d1d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d194159fc0d8ab6cefcab1a888a2ea13.js": "/precache-manifest.d194159fc0d8ab6cefcab1a888a2ea13.js",
+    "precache-manifest.6ebeef418207f610a972be9ed22ad565.js": "/precache-manifest.6ebeef418207f610a972be9ed22ad565.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8ebfd5b2.chunk.css.map": "/static/css/main.8ebfd5b2.chunk.css.map",
+    "static/css/main.9325dc98.chunk.css.map": "/static/css/main.9325dc98.chunk.css.map",
     "static/js/2.77d80d1d.chunk.js.LICENSE.txt": "/static/js/2.77d80d1d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Busflix.e0bd96dc.pdf": "/static/media/Busflix.e0bd96dc.e0bd96dc.pdf",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.f394aa81.js",
     "static/js/2.77d80d1d.chunk.js",
-    "static/css/main.8ebfd5b2.chunk.css",
+    "static/css/main.9325dc98.chunk.css",
     "static/js/main.258dff14.chunk.js"
   ]
 }
