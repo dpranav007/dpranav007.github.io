@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9325dc98.chunk.css",
-    "main.js": "/static/js/main.ba465410.chunk.js",
-    "main.js.map": "/static/js/main.ba465410.chunk.js.map",
+    "main.css": "/static/css/main.eb379dfd.chunk.css",
+    "main.js": "/static/js/main.fd45288e.chunk.js",
+    "main.js.map": "/static/js/main.fd45288e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f394aa81.js",
     "runtime-main.js.map": "/static/js/runtime-main.f394aa81.js.map",
-    "static/js/2.657719e1.chunk.js": "/static/js/2.657719e1.chunk.js",
-    "static/js/2.657719e1.chunk.js.map": "/static/js/2.657719e1.chunk.js.map",
+    "static/js/2.08e886fb.chunk.js": "/static/js/2.08e886fb.chunk.js",
+    "static/js/2.08e886fb.chunk.js.map": "/static/js/2.08e886fb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2b4328bfdca8d0cf89c6430d143285b6.js": "/precache-manifest.2b4328bfdca8d0cf89c6430d143285b6.js",
+    "precache-manifest.3958ec9aeca4b69b455c8a0caf15892d.js": "/precache-manifest.3958ec9aeca4b69b455c8a0caf15892d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9325dc98.chunk.css.map": "/static/css/main.9325dc98.chunk.css.map",
-    "static/js/2.657719e1.chunk.js.LICENSE.txt": "/static/js/2.657719e1.chunk.js.LICENSE.txt",
+    "static/css/main.eb379dfd.chunk.css.map": "/static/css/main.eb379dfd.chunk.css.map",
+    "static/js/2.08e886fb.chunk.js.LICENSE.txt": "/static/js/2.08e886fb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Busflix.e0bd96dc.pdf": "/static/media/Busflix.e0bd96dc.e0bd96dc.pdf",
     "static/media/airbnbLogo.jpg": "/static/media/airbnbLogo.e47c3e26.jpg",
@@ -19,6 +19,7 @@
     "static/media/book.jpg": "/static/media/book.19aacfef.jpg",
     "static/media/busflix2.jpg": "/static/media/busflix2.9d645204.jpg",
     "static/media/canstores.jpg": "/static/media/canstores.212dc9d3.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.ff4da5ed.svg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/qsso.png": "/static/media/qsso.0dc4c4a3.png",
@@ -27,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f394aa81.js",
-    "static/js/2.657719e1.chunk.js",
-    "static/css/main.9325dc98.chunk.css",
-    "static/js/main.ba465410.chunk.js"
+    "static/js/2.08e886fb.chunk.js",
+    "static/css/main.eb379dfd.chunk.css",
+    "static/js/main.fd45288e.chunk.js"
   ]
 }
