@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bc1e5d7c5230ae7834c0e481233b694",
+    "revision": "dce9cca6c4ad3ba327ec0f30b50f92ea",
     "url": "/index.html"
   },
   {
-    "revision": "5c64d1f30a99d2498c1b",
+    "revision": "0efd0b084f957715d6f0",
     "url": "/static/css/main.eb379dfd.chunk.css"
   },
   {
-    "revision": "ac2dabc2c3e2eefd3073",
-    "url": "/static/js/2.77d80d1d.chunk.js"
+    "revision": "1d54ad470e425a2407a6",
+    "url": "/static/js/2.e3feda72.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.77d80d1d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e3feda72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c64d1f30a99d2498c1b",
-    "url": "/static/js/main.c429a765.chunk.js"
+    "revision": "0efd0b084f957715d6f0",
+    "url": "/static/js/main.bb7a2863.chunk.js"
   },
   {
     "revision": "485927d523f72ea2f4ff",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/airbnbLogo.e47c3e26.jpg"
   },
   {
-    "revision": "8e8b350ad04e589b2d66f24ce55a445f",
-    "url": "/static/media/boltpics.8e8b350a.jpg"
+    "revision": "c75e5a45fde0c61d8942268d14b7932e",
+    "url": "/static/media/boltpics.c75e5a45.jpg"
   },
   {
     "revision": "19aacfefa75d3fe271e103e141cd24cb",
@@ -154,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ff4da5ed81cdfe2b2e68d6dd9978d96e",
     "url": "/static/media/fa-solid-900.ff4da5ed.svg"
+  },
+  {
+    "revision": "64b74797f605225618402cb22fa8bc80",
+    "url": "/static/media/leapclub.64b74797.jpg"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
